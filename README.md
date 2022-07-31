@@ -1,5 +1,6 @@
 
-###mi blog personal
+### mi blog personal
 
 este repositorio es para redactar mi blog personal
 
+ 
